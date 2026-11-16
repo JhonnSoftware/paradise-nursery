@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # Paradise Nursery
 
 ## Online Plant Shopping Application
@@ -25,9 +8,17 @@ Welcome to Paradise Nursery!
 Discover a variety of beautiful indoor plants. Explore different categories, learn about each plant, and add your favorite plants to your shopping cart.
 
 ### Project Features
+
 - Browse indoor plants by category.
 - View plant images, descriptions and prices.
 - Add plants to the shopping cart.
 - Increase or decrease product quantities.
 - Calculate the total price automatically.
->>>>>>> 86765ba382a209634fce3a9ed7aaf0700d878f92
+
+### Technologies
+
+- React
+- JavaScript
+- Redux Toolkit
+- React Router
+- CSS
